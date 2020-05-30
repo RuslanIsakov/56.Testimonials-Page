@@ -8,3 +8,6 @@
 .testimonial:before{
     content: "\f10d";
     font-family: "Font Awesome 5 Free";
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
