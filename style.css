@@ -39,3 +39,7 @@
     bottom: -37px;
     left: 0;
 }
+.testimonial .title:after{
+    content: "";
+    border-top: 15px solid #662a66;
+ 
