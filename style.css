@@ -27,3 +27,6 @@
     border: 7px solid #fff;
     background: #e8326f;
     font-size: 22px;
+    text-transform: uppercase;
+    position: relative;
+}
