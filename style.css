@@ -30,3 +30,6 @@
     text-transform: uppercase;
     position: relative;
 }
+.testimonial .title:before{
+    content: "";
+    border-top: 15px solid #662a66;
