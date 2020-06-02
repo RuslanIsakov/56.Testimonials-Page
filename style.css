@@ -48,3 +48,6 @@
     bottom: -37px;
     right: 0;
 }
+testimonial .post{
+    display: inline-block;
+    font-size: 14px;
