@@ -42,4 +42,6 @@
 .testimonial .title:after{
     content: "";
     border-top: 15px solid #662a66;
- 
+    border-right: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    position: absolute;
