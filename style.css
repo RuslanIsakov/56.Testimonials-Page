@@ -63,3 +63,6 @@ testimonial .post{
     letter-spacing: 1px;
    line-height: 30px;
 }
+.owl-theme .owl-controls{ margin-top: 0; }
+.owl-theme .owl-controls .owl-buttons div{
+    display: inline-block;
