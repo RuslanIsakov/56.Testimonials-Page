@@ -66,3 +66,6 @@ testimonial .post{
 .owl-theme .owl-controls{ margin-top: 0; }
 .owl-theme .owl-controls .owl-buttons div{
     display: inline-block;
+ width: 40px;
+    height: 40px;
+    line-height: 35px;
