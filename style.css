@@ -1,4 +1,5 @@
- .testimonial{
+﻿     
+     .testimonial{
     border: 10px solid #662a66;
     padding: 40px 0 25px 0;
     margin: 50px;
@@ -27,6 +28,9 @@
     border: 7px solid #fff;
     background: #e8326f;
     font-size: 22px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 1px;
     text-transform: uppercase;
     position: relative;
 }
@@ -48,7 +52,7 @@
     bottom: -37px;
     right: 0;
 }
-testimonial .post{
+.testimonial .post{
     display: inline-block;
     font-size: 14px;
     font-weight: 700;
@@ -61,24 +65,24 @@ testimonial .post{
     font-size: 15px;
     color: #6f6f6f;
     letter-spacing: 1px;
-   line-height: 30px;
+    line-height: 30px;
 }
 .owl-theme .owl-controls{ margin-top: 0; }
 .owl-theme .owl-controls .owl-buttons div{
     display: inline-block;
- width: 40px;
+    width: 40px;
     height: 40px;
     line-height: 35px;
-background: #f1971f;
+    background: #f1971f;
     color: #fff;
     border-radius: 0;
-margin-right: 5px;
+    margin-right: 5px;
     opacity: 1;
 }
 .owl-prev:before,
 .owl-next:before{
     content: "\f060";
- font-family: "Font Awesome 5 Free";
+    font-family: "Font Awesome 5 Free";
     font-size: 20px;
     font-weight: 900;
 }
@@ -86,3 +90,4 @@ margin-right: 5px;
 @media only screen and (max-width: 990px){
     .testimonial{ margin: 30px; }
 }
+     
